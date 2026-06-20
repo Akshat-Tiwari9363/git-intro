@@ -1,20 +1,20 @@
 This my first push in github
 
-git config
-git init
-git status
-git add
-git rm --cached filename
-git log
-git commit -m message
-git diff
-git clone link
-git branch
-git remote add origin link
-git push -u origin 
-git tag -a v1.0 -m message
-git push origin v1.0
-git switch -b branchname
-git checkout -c branchname
-git merge branchname
-git pull origin main
+**git config<br>
+git init<br>
+git status<br>
+git add<br>
+git rm --cached filename<br>
+git log<br>
+git commit -m message<br>
+git diff<br>
+git clone link<br>
+git branch<br>
+git remote add origin link<br>
+git push -u origin <br>
+git tag -a v1.0 -m message<br>
+git push origin v1.0<br>
+git switch -b branchname<br>
+git checkout -c branchname<br>
+git merge branchname<br>
+git pull origin main<br>**
